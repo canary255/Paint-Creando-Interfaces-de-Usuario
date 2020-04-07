@@ -9,7 +9,7 @@ Crear un Paint utilizando p5.js que permita como mínimo modificar el color y gr
 ### Desarrollo
 - Esta práctica trata de desarrollar un paint, para ello se añadió lo siguiente:
   - El lápiz para poder pintar sobre el lienzo.
-  - El grosor del lapiz para hacer dibujos más finos o gruesos.
+  - El grosor del lapiz para hacer dibujos más finos o gruesos (el rango asignado al grosor es desde **1** hasta **13**).
   - La selección de colores para que el usuario pueda elegir uno y pintarlo sobre el lienzo. El usuario puede elegir los colores **básicos** que vienen por defecto y también se ha creado una imagen con un selector de colores, donde haciendo click sobre ellos puedes escoger diferentes colores.
   - La goma para borrar parte del dibujo.
   - Y por último una acción para limpiar toda la pantalla dibujada.
